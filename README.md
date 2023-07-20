@@ -1,7 +1,7 @@
 ### Olá, eu sou o Daniel Azara! 🫡
 
 <br>
-🐱‍💻 Estudante de programação, no momento com foco no back-end
+🐱‍💻 Estudante de programação, no momento com foco no back-end, curioso sobre como funciona o sistema que entrega o site completo ao usuário.
 <br>
 <br>
 
