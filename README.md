@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Fullstack developer in formation<br>- .NET developer <br>- Currently workin as Voip Support Engineer</p>
+<p align="left">- Fullstack developer in formation<br>- .NET developer <br>- Currently working as a Voip Support Engineer</p>
 
 ###
 
