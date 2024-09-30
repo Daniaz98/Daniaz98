@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Fullstack developer in formation<br>- Currently working as a Voip Support Engineer</p>
+<p align="left">- Fullstack developer in formation<br>- Currently working as a developer at InovaComm.</p>
 
 ###
 
@@ -19,9 +19,11 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="tyscr logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=csharp" height="40" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="ndjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
