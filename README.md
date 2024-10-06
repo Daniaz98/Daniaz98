@@ -21,7 +21,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="tyscr logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=javascrit" height="40" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="csharp logo"  />
   <img width="12" />
