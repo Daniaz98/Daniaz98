@@ -40,13 +40,14 @@
 
 ###
 
-<p align="left">Stats</p>
 
 ###
 
 
 
 ###
+<p align="left">Social Media</p>
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/daniel-azara/" target="_blank">
