@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Fullstack developer in formation<br>- Currently working as a developer at InovaComm.</p>
+<p align="left">- Backend developer in the road to become fullstack<br>- Currently working as a developer at InovaComm.</p>
 
 ###
 
@@ -26,6 +26,8 @@
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="ndjs logo"  />
   <img width="12" />
