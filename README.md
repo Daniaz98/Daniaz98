@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Backend developer in the road to become fullstack<br>- Currently working as a developer at InovaComm.</p>
+<p align="left">- Backend developer on the journey to becoming a full-stack developer.<br>- Passionate about technology and curious, enjoying exploring different systems and challenges.</p> 
 
 ###
 
