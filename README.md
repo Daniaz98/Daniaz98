@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👋 Hello, I'm Daniel — I'm from Rio de Janeiro, Brazil  <br>🎓 Degree in Systems Analysis and Development — UNESA  <br>💻 FullStack Developer specialized in .NET and ReactJS  <br>🚀 Passionate about building robust, scalable and well-tested applications</p>
+<p align="left">👋 Hello, I'm Daniel — I'm from Rio de Janeiro, Brazil  <br>🎓 Degree in Systems Analysis and Development — UNESA  <br>💻 FullStack Developer specialized in .NET and ReactJS  <br>🚀 Passionate about developing robust, high-quality web applications that prioritize scalability, performance, and maintainability</p>
 
 ###
 
