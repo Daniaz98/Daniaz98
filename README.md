@@ -1,8 +1,4 @@
-<h2 align="left">👋 Hey there, welcome to my github profile</h2>
-
-###
-
-<p align="left">- My name is Daniel Azara and I'm a Software engineer from Rio de Janeiro, Brazil</p>
+<h3 align="center">Hi there, welcome to my profile!</h3>
 
 ###
 
@@ -10,28 +6,26 @@
 
 ###
 
-<p align="left">- Backend developer on the journey to becoming a full-stack developer.<br>- Passionate about technology and curious, enjoying exploring different systems and challenges.</p> 
+<p align="left">👋 Hello, I'm Daniel — I'm from Rio de Janeiro, Brazil  <br>🎓 Degree in Systems Analysis and Development — UNESA  <br>💻 FullStack Developer specialized in .NET and ReactJS  <br>🚀 Passionate about building robust, scalable and well-tested applications</p>
 
 ###
 
-<p align="left">Techs</p>
+<h2 align="left">Techs</h2>
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="tyscr logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="csharp logo"  />
-  <img width="12" />
+<div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="ndjs logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
@@ -39,39 +33,24 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
 </div>
 
 ###
 
-
-###
-
-
-
-###
-<p align="left">Social Media</p>
-
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/daniel-azara/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/azara.daniel/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
+<h2 align="left">Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Daniaz98&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Daniaz98&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=nightowl&hide_border=true" height="250" alt="languages graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daniaz98&radius=16&theme=nightowl&area=true&hide_border=true&custom_title=Contribution%20Graph" height="250" alt="activity graph" />
 </div>
 
 ###
